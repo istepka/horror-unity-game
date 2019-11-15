@@ -10,7 +10,7 @@ You wake up in the middle of the night in an old abandoned wodden village. You h
 Menu contains some options you can personalize before starting a game (runtime you can access options panel by pressing 'esc'). 
 ![menu.jpg](imgs/mainMenu.jpg) ![opt.jpg](imgs/options.jpg)
 ### In game
-You are equipped with fleshlight which you can turn on/off by 'rpm'. Difficulty from starting menu influences battery capacity, the higher difficulty the battery runs out faster. You have to find 5 clipboards scattered around the map. Collect them by pressign 'E' key.
+You are equipped with flashlight which you can turn on/off by 'rpm'. Difficulty from starting menu influences battery capacity, the higher difficulty the battery runs out faster. You have to find 5 clipboards scattered around the map. Collect them by pressign 'E' key.
 ![shack.jpg](imgs/shack.jpg) ![inGame.jpg](imgs/inGame.jpg)  
 ![note.jpg](imgs/note.jpg) ![campfire.jpg](imgs/campfire.jpg)
 ### Animations, cut scenes, sounds and soundtrack
