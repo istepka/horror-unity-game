@@ -3,7 +3,7 @@ A horror-like game created with c# in unity. The whole game is based on an idea 
 #### Repo contains only c# scripts from game because whole project was too big to push it to github. On the bottom of readme I've shared a link to gdrive from which you can download an exported and playable game.  
 ***
 ## Background story
-You wake up in the middle of the night in an old abandoned wodden village. You have only small fleshlight with limmited ammount of baterry. Be careful to not run out of your power because without a light it's difficult to find notes. In order to get out from this place you have to collect all 8 notes and then open a gate.
+You wake up in the middle of the night in an old abandoned wodden village. You have only small flashlight with limmited ammount of baterry. Be careful to not run out of your power because without a light it's difficult to find notes. In order to get out from this place you have to collect all 8 notes and then open a gate.
 ***
 ## Here are some screenshots and features from the game:
 ### Starting menu
